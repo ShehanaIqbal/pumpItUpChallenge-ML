@@ -132,6 +132,5 @@ Given below is the scores achieved by the submitted (last version) of the model.
 ![image](https://user-images.githubusercontent.com/47121844/133824124-89672bdf-29de-41ce-a4d0-07da6d4976f7.png)
 
 ### Rank on Drivendata 
-
-file:///home/shehanaiqbal/Pictures/Screenshot%20from%202021-09-15%2022-45-46.png![image](https://user-images.githubusercontent.com/47121844/133824444-affbac3a-cba6-4fdd-8729-069f28b93a3c.png)
+![image](https://user-images.githubusercontent.com/47121844/133824444-affbac3a-cba6-4fdd-8729-069f28b93a3c.png)
 
