@@ -3,6 +3,8 @@
 ## Github Link
 https://github.com/ShehanaIqbal/pumpItUpChallenge-ML
 
+## Rank : 2101
+
 # Visualization
 
 Data were visualized and analysed with follwing techniques.
@@ -117,13 +119,19 @@ Given below is the scores achieved by the submitted (last version) of the model.
 
     Accuracy:
     =========
-    TRAIN: 0.9772979642196176
-    TEST: 0.8615399066912985
+    TRAIN: 0.9754318322023442
+    TEST: 0.8614146601120957
 
     Balanced Accuracy:
     ==================
-    TRAIN: 0.9773003594810724
-    TEST: 0.8615063785683996
+    TRAIN: 0.9754343630754786
+    TEST: 0.8613801396006276
     
 ### Cofusion matrix for test data is given below.
-![image](https://user-images.githubusercontent.com/47121844/133804550-6b292d1d-5a12-41d6-b1f1-f34a698c0b68.png)
+
+![image](https://user-images.githubusercontent.com/47121844/133824124-89672bdf-29de-41ce-a4d0-07da6d4976f7.png)
+
+### Rank on Drivendata 
+
+file:///home/shehanaiqbal/Pictures/Screenshot%20from%202021-09-15%2022-45-46.png![image](https://user-images.githubusercontent.com/47121844/133824444-affbac3a-cba6-4fdd-8729-069f28b93a3c.png)
+
