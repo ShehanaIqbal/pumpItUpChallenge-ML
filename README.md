@@ -3,7 +3,7 @@
 ## Github Link
 https://github.com/ShehanaIqbal/pumpItUpChallenge-ML
 
-## Rank : 2101
+## Rank : 2144
 
 # Visualization
 
@@ -131,6 +131,8 @@ Given below is the scores achieved by the submitted (last version) of the model.
 
 ![image](https://user-images.githubusercontent.com/47121844/133824124-89672bdf-29de-41ce-a4d0-07da6d4976f7.png)
 
-### Rank on Drivendata 
+### Rank as of 15th October on Drivendata 
 ![image](https://user-images.githubusercontent.com/47121844/133824444-affbac3a-cba6-4fdd-8729-069f28b93a3c.png)
 
+### Current rank
+![screencapture-drivendata-org-competitions-7-pump-it-up-data-mining-the-water-table-submissions-2021-09-17-23_01_21](https://user-images.githubusercontent.com/47121844/133831336-39461210-fd6c-458c-adf0-6326a05a910b.png)
